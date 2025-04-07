@@ -10,13 +10,32 @@
 
 ---
 
-## 🔧 Tech Stack
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+## 🛠️ Tech Stack
 
+**Languages:**  
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)  
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)  
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
+**Frameworks & Libraries:**  
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+
+**Databases & Tools:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)  
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)  
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+
+---
 <!--
 ## 📊 GitHub Stats
 ![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
