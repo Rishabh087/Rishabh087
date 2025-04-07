@@ -2,13 +2,13 @@
 <!-- Banner -->
 <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" />
 
-# Hi there 👋 I'm Rishabh Pandey
+                                  # Hi there 👋 I'm Rishabh Pandey
 
-🚀 Passionate Web Developer | Problem Solver | Tech Enthusiast  
-💻 Skilled in React, JavaScript, Node.js, and Tailwind CSS  
-🔧 Building projects, exploring backend & frontend, and growing every day
+                                   🚀 Passionate Web Developer | Problem Solver | Tech Enthusiast  
+                                   💻 Skilled in React, JavaScript, Node.js, and Tailwind CSS  
+                                   🔧 Building projects, exploring backend & frontend, and growing every day
 
----
+                                    ---
 
 ## 🛠️ Tech Stack
 
