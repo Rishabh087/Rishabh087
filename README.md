@@ -1,6 +1,6 @@
-## Hi there 👋
+
 <!-- Banner -->
-<img src="https://your-image-link.com/banner.png" alt="banner" />
+<img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" />
 
 # Hi there 👋 I'm Rishabh Pandey
 
@@ -16,8 +16,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 
----
 
+<!--
 ## 📊 GitHub Stats
 ![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
